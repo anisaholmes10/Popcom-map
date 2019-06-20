@@ -1,0 +1,73 @@
+#us-map{
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+path:hover, circle:hover {
+  stroke: #002868 !important;
+  stroke-width:2px;
+  stroke-linejoin: round;
+  cursor: pointer;
+}
+#path67 {
+  fill: none !important;
+  stroke: #A9A9A9 !important;
+  cursor: default;
+}
+#info-box {
+  display: none;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  z-index: 1;
+  background-color: #ffffff;
+  padding: 5px;
+  font-family: futura;
+  font-size: 12px;
+}
+
+  .st0{fill:#D3D3D3;}
+  .st1{fill:#F7DAD3;}
+  .st2{fill:#E87EA5;}
+  .st3{fill:#F1B8BC;}
+  .st4{fill:#E989A9;}
+  .st5{fill:#721874;}
+  .st6{fill:#E985A8;}
+  .st7{fill:#F0B4BB;}
+  .st8{fill:#F9DEDC;}
+  .st9{fill:#95267D;}
+  .st10{fill:#6F1773;}
+  .st11{fill:#FAE4DC;}
+  .st12{fill:#F9E2DA;}
+  .st13{fill:#E46E9F;}
+  .st14{fill:#EA8BAA;}
+  .st15{fill:#FAE6DE;}
+  .st16{fill:#F7D6CF;}
+  .st17{fill:#E776A2;}
+  .st18{fill:#C2418D;}
+  .st19{fill:#FFFFFF;}
+  .st20{fill:#E779A3;}
+  .st21{fill:#F0ADB8;}
+  .st22{fill:#E989AA;}
+  .st23{fill:#ED9BB2;}
+  .st24{fill:#FBE9E1;}
+  .st25{fill:#CF5194;}
+  .st26{fill:#F6D1CB;}
+  .st27{fill:#FBEBE3;}
+  .st28{fill:#E672A0;}
+  .st29{fill:#FAE7DE;}
+  .st30{fill:#EB8FAC;}
+  .st31{fill:#F5CEC8;}
+  .st32{fill:#701873;}
+  .st33{fill:#F4CBC4;}
+  .st34{fill:#E16B9D;}
+  .st35{fill:#F4CCC5;}
+  .st36{fill:#E984A8;}
+  .st37{fill:#92247C;}
+  .st38{fill:#DD659B;}
+  .st39{fill:#E98AAA;}
+  .st40{fill:#D3D3D3;stroke:#FFFFFF;stroke-width:1.5;}
+  .st41{fill:none;stroke:#A9A9A9;stroke-width:2;}
